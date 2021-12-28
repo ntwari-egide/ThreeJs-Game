@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+
+# Getting Started with Three js App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -69,6 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# ThreeJs-Game
->>>>>>> 44a5d4d83b933a28697a71b43bf236ef2f30decf
+
