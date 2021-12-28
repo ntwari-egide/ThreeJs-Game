@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Shizuru&display=swap');
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +12,25 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+canvas {
+  height: 100vh !important;
+}
+
+.instruction.bg-black.p-8.z-50 {
+  position: absolute;
+  z-index: 90;
+  background: #132623;
+  margin-top: 5vh;
+  margin-left: 33vw;
+  padding: 14px 45px;
+  box-shadow: 0 2px 4px #ffffff14;
+}
+
+p{
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
 }
